@@ -30,18 +30,11 @@ These are Color Pallate app using Color Pallate.
     
 ## 📲 Screenshots
 
-![image1]()
-![image2]()
-![image3]()
-![image![image5]()
-4]()
-
-
-<img align="left" src="https://user-images.githubusercontent.com/121867877/235662022-b13d96b6-28ef-4970-b2bf-2591bf961106.png" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121867877/235662026-a8f65ef7-1c6b-45f9-930e-298d4a8bc39c.png" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121867877/235662037-3c3296f6-a2ec-4788-941a-2821ae574c7f.png" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121867877/235662064-f07eb62a-3264-45f3-b6c2-3883cac14bf6.png" width="220px">
-<img src="https://user-images.githubusercontent.com/121867877/235662056-4b2f44b3-b4ce-4e8b-87b2-7bd4424af934.png" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121867877/235662022-b13d96b6-28ef-4970-b2bf-2591bf961106.png" width="120px">
+<img align="left" src="https://user-images.githubusercontent.com/121867877/235662026-a8f65ef7-1c6b-45f9-930e-298d4a8bc39c.png" width="120px">
+<img align="left" src="https://user-images.githubusercontent.com/121867877/235662037-3c3296f6-a2ec-4788-941a-2821ae574c7f.png" width="120px">
+<img align="left" src="https://user-images.githubusercontent.com/121867877/235662064-f07eb62a-3264-45f3-b6c2-3883cac14bf6.png" width="120px">
+<img src="https://user-images.githubusercontent.com/121867877/235662056-4b2f44b3-b4ce-4e8b-87b2-7bd4424af934.png" width="120px">
 
 <br><br>
 
